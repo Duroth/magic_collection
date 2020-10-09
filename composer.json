@@ -1,0 +1,18 @@
+{
+    "name": "duroth/magic_collection",
+    "description": "The worst idea I have ever had: Runtime-created, typed collections objects.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Baelemans",
+            "email": "k.baelemans@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "\\Duroth\\Magic\\": "src/"
+        }
+    }
+}
